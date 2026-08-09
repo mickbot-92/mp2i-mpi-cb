@@ -15,9 +15,7 @@ Les liens se terminant par **[D]** feront référence à des messages du Discord
 
 ## Ordinateur / Linux
 * [NonOS - L'environnement de concours](https://agreg-info.gitlab.io/docs/index.html)
-- Déverrouiller le BIOS d'ordi Unowhy (afin de faciliter l'installation de Linux)
-  - Méthode légit : [Part I](https://iledefrance-unowhy.com/fin-de-cursus-2026/) - Part II
-  - [Méthode un peu moins légit](https://blog.sty1001.com/2024/07/29/unlock-le-bios-nimporte-quel-y13-gen-1-2023-et-avant-avec-la-methode-du-court-circuit/)
+- [Guide pour PC Unowhy Y13](you-know-why)
 - Installation de Linux
   - Linux Mint
   - Fedora
@@ -51,3 +49,4 @@ Les liens se terminant par **[D]** feront référence à des messages du Discord
 * [Polycopié Maths LLG / H4](https://www.louislegrand.fr/wp-content/uploads/2022/01/EXOS-TERMINALE3-3-AVECDESSIN.pdf)
 * [Prologin](https://prologin.org/)
 * BIA - Brevet d'Initiation à l'Aéronautique
+* [Le Jeu (The Game)](https://fr.wikipedia.org/wiki/Le_Jeu_(divertissement))
