@@ -16,10 +16,6 @@ Les liens se terminant par **[D]** feront référence à des messages du Discord
 ## Ordinateur / Linux
 * [NonOS - L'environnement de concours](https://agreg-info.gitlab.io/docs/index.html)
 - [Guide pour PC Unowhy Y13](you-know-why)
-- Installation de Linux
-  - Linux Mint
-  - Fedora
-  - Arch Linux
 * Pas recommandé, mais : [GCC sur Windows](https://code.visualstudio.com/docs/cpp/config-mingw) (utiliser [VSCodium](https://vscodium.com/) !)
 
 ## Matières
