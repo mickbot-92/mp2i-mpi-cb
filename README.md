@@ -28,7 +28,7 @@ Les liens se terminant par **[D]** feront référence à des messages de mon cha
 * [Projet Voltaire - Ressource de l'ENT](https://discord.com/channels/1412854233660915784/1521640390657314857/1521800898089713726) **[D]**
 * [écri+ - Ressource externe](https://discord.com/channels/1412854233660915784/1521640390657314857/1521803968844533803) **[D]**
 * [À faire pour la rentrée](https://pia.ac-paris.fr/serail/jcms/s1_3989840/fr/bibliographie-lettres-philosophie-cpge-scientifiques-2026-2027?details=true)
-* **Astuce** L'Œuvre de Émile Zola est dans le domaine public, i.e. est retrouvable librement sur Internet, par exemple sur Wikisource ou la BeQ.
+* **Astuce** : L'Œuvre de Émile Zola est dans le domaine public, i.e. est retrouvable librement sur Internet, par exemple sur Wikisource ou la BeQ.
 
 ### Anglais
 * The Big Picture 6e édition - [Flashcards Anki](https://ankiweb.net/shared/info/561856454) !
