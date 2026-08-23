@@ -15,4 +15,4 @@ Mon conseil est le suivant :
 
 Tout vous sera indiqué par le CPE en temps et en heure concernant les procédures d'inscription.
 
-(L'inscription cumulative permet en outre de profiter des avantages des étudiants de l'université même, comme le vote de représentants, la participation aux tirages au sort organisés par mail et autres événements jeux de société, la chasse aux œufs dans les BU, une facilité pour manger dans les restaurants universités (RU) avec la carte d'étudiant, etc.)
+(L'inscription cumulative permet en outre de profiter des avantages des étudiants de l'université même, comme le vote de représentants, la participation aux tirages au sort organisés par mail et autres événements jeux de société / atelier crochet, la chasse aux œufs dans les BU, une facilité pour manger dans les restaurants universités (RU) avec la carte d'étudiant, etc.)
