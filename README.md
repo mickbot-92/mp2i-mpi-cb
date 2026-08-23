@@ -7,7 +7,7 @@ Les liens se terminant par **[D]** feront référence à des messages de mon cha
 
 ## Général
 * [**Site officiel de la MP2I de CB**](https://mp2i-claude-bernard.fr/)
-* [**Site officiel du lycéee**](https://pia.ac-paris.fr/serail/jcms/s1_660394/fr/classes-preparatoires-scientifiques)
+* [**Site officiel du lycée**](https://pia.ac-paris.fr/serail/jcms/s1_660394/fr/classes-preparatoires-scientifiques)
 * [Conseils pré-rentrée MP2I (non exhaustifs)](https://discord.com/channels/1412854233660915784/1521640390657314857/1526596836234629192) **[D]**
 * [Association Prépas MP2I/MPI](https://prepas-mp2i.fr/) - [Discord](https://discord.prepas-mp2i.fr/)
 * [SCEI Concours](https://www.scei-concours.fr/) (le Parcoursup des CPGE…)
