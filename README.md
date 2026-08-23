@@ -3,7 +3,9 @@
 ## Discord
 Me contacter à stole-gusto-dress[at]duck[dot]com
 
-Les liens se terminant par **[D]** feront référence à des messages de mon channel sur Discord.
+Les liens se terminant par **[D]** feront référence à des messages, de mon channel notamment, sur Discord.
+
+Les liens en italique sont des pages natives du site.
 
 ## Général
 * [**Site officiel de la MP2I de CB**](https://mp2i-claude-bernard.fr/)
@@ -16,8 +18,8 @@ Les liens se terminant par **[D]** feront référence à des messages de mon cha
 
 ## Ordinateur / Linux
 * [NonOS - L'environnement de concours](https://agreg-info.gitlab.io/docs/index.html)
-* [Guide pour PC Unowhy Y13](you-know-why)
-* [Linux, l'incontournable de la MP2I/MPI](linux)
+* [*Guide pour PC Unowhy Y13*](you-know-why)
+* [*Linux, l'incontournable de la MP2I/MPI*](linux)
 * Utiliser [VSCodium](https://vscodium.com/) et non pas VS Code !
 
 ## Matières
@@ -34,12 +36,12 @@ Les liens se terminant par **[D]** feront référence à des messages de mon cha
 * [Méthodologie khôlle anglais](https://discord.com/channels/1412854233660915784/1521640390657314857/1536269507201605663) **[D]**
 * [Conseils pour l'anglais](https://discord.com/channels/1412854233660915784/1540072751304417421/1540072751304417421) **[D]**
 
-## [Bibliothèques](bibliotheques)
+## [*Bibliothèques*](bibliotheques)
 * [Affluences](https://affluences.com/fr/) - Horaires et affluences à jour des bibliothèques
 * [Numérique Premium (NP)](https://numeriquepremium.com/) - Livres numériques
 
 ## Cumulatif
-* [Inscription cumulative](inscription-cumulative)
+* [*Inscription cumulative*](inscription-cumulative)
 * [Boîte mail universitaire](https://discord.com/channels/1412854233660915784/1521640390657314857/1525439983522021517) **[D]**
 * ScholarVox - Livres numériques
 
