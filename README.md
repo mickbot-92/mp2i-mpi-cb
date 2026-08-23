@@ -3,7 +3,7 @@
 ## Discord
 Me contacter à stole-gusto-dress[at]duck[dot]com
 
-Les liens se terminant par **[D]** feront référence à des messages du Discord.
+Les liens se terminant par **[D]** feront référence à des messages de mon channel sur Discord.
 
 ## Général
 * [Conseils pré-rentrée MP2I (non exhaustifs)](https://discord.com/channels/1412854233660915784/1521640390657314857/1526596836234629192) **[D]**
@@ -12,6 +12,7 @@ Les liens se terminant par **[D]** feront référence à des messages du Discord
 * Restaurants universitaires (RU)
 * BSG et BSB
 * [Cahiers ✨ open-source ✨ de Colas Bardavid](https://colasbd.github.io/)
+* Numérique Premium (NP) - Livres numériques
 
 ## Ordinateur / Linux
 * [NonOS - L'environnement de concours](https://agreg-info.gitlab.io/docs/index.html)
@@ -25,12 +26,14 @@ Les liens se terminant par **[D]** feront référence à des messages du Discord
 * [écri+ - Ressource externe](https://discord.com/channels/1412854233660915784/1521640390657314857/1521803968844533803) **[D]**
 
 ### Anglais
-* The Big Picture 6e édition - [Flashcards Anki](https://ankiweb.net/shared/info/561856454)
+* The Big Picture 6e édition - [Flashcards Anki](https://ankiweb.net/shared/info/561856454) !
 * [Mémo Anglais B2-C1](https://www.generation5.fr/379--memo-anglais-b2-c1-edition-2020.php) / [Application compagnon](https://www.g5-apps.fr/Mmo-anglais-B2-C1--125--10410.php)
+* [Méthodologie khôlle anglais](https://discord.com/channels/1412854233660915784/1521640390657314857/1536269507201605663) **[D]**
+* [Conseils pour l'anglais par A.H.](https://discord.com/channels/1412854233660915784/1540072751304417421/1540072751304417421) **[D]**
 
 ## Cumulatif
-* [Inscription cumulative](https://discord.com/channels/1412854233660915784/1521640390657314857/1521813646492172369) **[D]**
-* Bibliothèques universitaires (BU) / [Affluences](https://affluences.com/fr/)
+* [Inscription cumulative](inscription-cumulative)
+* [Bibliothèques universitaires (BU)](bibliotheques) / [Affluences](https://affluences.com/fr/)
 * [Boîte mail universitaire](https://discord.com/channels/1412854233660915784/1521640390657314857/1525439983522021517) **[D]**
 * ScholarVox - Livres numériques
 
