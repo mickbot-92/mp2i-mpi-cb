@@ -34,8 +34,7 @@ Les liens se terminant par **[D]** feront référence à des messages de mon cha
 * [Méthodologie khôlle anglais](https://discord.com/channels/1412854233660915784/1521640390657314857/1536269507201605663) **[D]**
 * [Conseils pour l'anglais](https://discord.com/channels/1412854233660915784/1540072751304417421/1540072751304417421) **[D]**
 
-## [Bibiothèques](bibliotheques)
-* [Page d'accueil](bibliotheques)
+## [Bibliothèques](bibliotheques)
 * [Affluences](https://affluences.com/fr/) - Horaires et affluences à jour des bibliothèques
 * [Numérique Premium (NP)](https://numeriquepremium.com/) - Livres numériques
 
