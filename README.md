@@ -18,6 +18,7 @@ Les liens en italique sont des pages natives du site.
 ## Concours
 * [SCEI Concours](https://www.scei-concours.fr/) (le Parcoursup des CPGE…)
 * [Carte écoles post-MPI](https://mickbot-92.github.io/post-mpi/8/) (WIP)
+* [Aide IDF pour les frais de concours CPGE](https://www.iledefrance.fr/sites/default/files/2026-04/lycees-aide_cpge-2026-2027.pdf)
 
 ## Matières
 
