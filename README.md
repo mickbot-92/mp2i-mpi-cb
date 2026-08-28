@@ -12,17 +12,24 @@ Les liens en italique sont des pages natives du site.
 * [**Site officiel du lycée**](https://pia.ac-paris.fr/serail/jcms/s1_660394/fr/classes-preparatoires-scientifiques)
 * [Conseils pré-rentrée MP2I (non exhaustifs)](https://discord.com/channels/1412854233660915784/1521640390657314857/1526596836234629192) **[D]**
 * [Association Prépas MP2I/MPI](https://prepas-mp2i.fr/) - [Discord](https://discord.prepas-mp2i.fr/)
-* [SCEI Concours](https://www.scei-concours.fr/) (le Parcoursup des CPGE…)
 * Restaurants universitaires (RU)
 * [Cahiers ✨ open-source ✨ de Colas Bardavid](https://colasbd.github.io/)
 
-## Ordinateur / Linux
+## Concours
+* [SCEI Concours](https://www.scei-concours.fr/) (le Parcoursup des CPGE…)
+* [Carte écoles post-MPI](https://mickbot-92.github.io/post-mpi/8/)
+
+## Matières
+
+### Informatique
 * [NonOS - L'environnement de concours](https://agreg-info.gitlab.io/docs/index.html)
 * [*Guide pour PC Unowhy Y13*](you-know-why)
 * [*Linux, l'incontournable de la MP2I/MPI*](linux)
 * Utiliser [VSCodium](https://vscodium.com/) et non pas VS Code !
-
-## Matières
+- OCaml - [Site officiel](https://ocaml.org/)
+  - [Playground - Interpréteur en ligne](https://ocaml.org/play)
+  - [Exercice du site officiel](https://ocaml.org/exercises)
+  - [Serveur Discord](https://discord.gg/cCYQbqN)
 
 ### Français
 * [Projet Voltaire - Ressource de l'ENT](https://discord.com/channels/1412854233660915784/1521640390657314857/1521800898089713726) **[D]**
