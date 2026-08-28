@@ -17,7 +17,7 @@ Les liens en italique sont des pages natives du site.
 
 ## Concours
 * [SCEI Concours](https://www.scei-concours.fr/) (le Parcoursup des CPGE…)
-* [Carte écoles post-MPI](https://mickbot-92.github.io/post-mpi/8/)
+* [Carte écoles post-MPI](https://mickbot-92.github.io/post-mpi/8/) (WIP)
 
 ## Matières
 
