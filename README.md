@@ -40,8 +40,8 @@ Les liens en italique sont des pages natives du site.
 
 ### Anglais
 - The Big Picture 6e édition
-  - [Flashcards Anki (Legacy)](https://ankiweb.net/shared/info/561856454) !
-  - [Flashcards Anki (merci C.P. !)](https://ankiweb.net/shared/info/1084173649)
+  - [Flashcards Anki](https://ankiweb.net/shared/info/561856454) (Legacy)
+  - [Flashcards Anki](https://ankiweb.net/shared/info/1084173649) (Merci C.P. !)
 * [Mémo Anglais B2-C1](https://www.generation5.fr/379--memo-anglais-b2-c1-edition-2020.php) / [Application compagnon](https://www.g5-apps.fr/Mmo-anglais-B2-C1--125--10410.php)
 * [Méthodologie khôlle anglais](https://discord.com/channels/1412854233660915784/1521640390657314857/1536269507201605663) **[D]**
 * [Conseils pour l'anglais](https://discord.com/channels/1412854233660915784/1540072751304417421/1540072751304417421) **[D]**
