@@ -70,5 +70,5 @@ Les liens en italique sont des pages natives du site.
 * [Polycopié Maths LLG / H4](https://www.louislegrand.fr/wp-content/uploads/2022/01/EXOS-TERMINALE3-3-AVECDESSIN.pdf)
 * [Prologin](https://prologin.org/)
 * BIA - Brevet d'Initiation à l'Aéronautique
-* [Le Jeu (The Game)](https://fr.wikipedia.org/wiki/Le_Jeu_(divertissement))
+* [Le Jeu (The Game)](https://fr.wikipedia.org/wiki/Le_Jeu_(divertissement)) : vous avez perdu !
 * [Cahier de Prépa downloader](https://github.com/pm-alexandre/cahier_de_prepa_downloader) - Télécharger tout Cahier de Prépa
