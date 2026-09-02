@@ -20,9 +20,11 @@ Les liens en italique sont des pages natives du site.
 * [Anki - Système de flashcards](https://discord.com/channels/1412854233660915784/1543578246333997136) **[D]**
 
 ## Concours
+* [Simulateur de bourse](https://www.lescrous.fr/nos-services/simulateur-de-bourse/)
 * [SCEI Concours](https://www.scei-concours.fr/) (le Parcoursup des CPGE…)
 * [Carte écoles post-MPI](https://mickbot-92.github.io/post-mpi/8/) (WIP)
 * [Aide IDF pour les frais de concours CPGE](https://www.iledefrance.fr/sites/default/files/2026-04/lycees-aide_cpge-2026-2027.pdf)
+* [Base d'épreuves orales scientifiques de concours aux grandes écoles](https://beos.prepas.org/)
 
 ## Matières
 
@@ -60,6 +62,7 @@ Les liens en italique sont des pages natives du site.
 * ScholarVox - Livres numériques
 
 ### Focus Sorbonne Université
+* [Emplois du temps](https://planning.upmc.fr/jussieu/)
 * [Welcome pack numérique étudiant](https://guideetudiant.sorbonne-universite.fr/aides-et-sante/profiter-du-welcome-pack-numerique-etudiant)
 * [Play Sorbonne U (PSU)](https://playsorbonne.fr/)
 
@@ -73,3 +76,4 @@ Les liens en italique sont des pages natives du site.
 - [Le Jeu (The Game)](https://fr.wikipedia.org/wiki/Le_Jeu_(divertissement)) : vous avez perdu !
   - [Post Discord associé](https://discord.com/channels/1412854233660915784/1539348466910757004) **[D]**
 * [Cahier de Prépa downloader](https://github.com/pm-alexandre/cahier_de_prepa_downloader) - Télécharger tout Cahier de Prépa
+* [Astro-Pi](https://astro-pi.org/) (Mission Zero très accessible)
