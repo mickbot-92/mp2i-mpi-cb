@@ -11,14 +11,14 @@ Les liens en italique sont des pages natives du site.
 * [**Site officiel de la MP2I de CB**](https://mp2i-claude-bernard.fr/)
 * [**Site officiel du lycée**](https://pia.ac-paris.fr/serail/jcms/s1_660394/fr/classes-preparatoires-scientifiques)
 * [Association Prépas MP2I/MPI](https://prepas-mp2i.fr/) - [Discord](https://discord.prepas-mp2i.fr/)
-* [Restaurants universitaires (RU)](https://discord.com/channels/1412854233660915784/1545028765334241295) [D]
+* [Restaurants universitaires (RU)](https://discord.com/channels/1412854233660915784/1545028765334241295) **[D]**
 * [Cahiers ✨ open-source ✨ de Colas Bardavid](https://colasbd.github.io/)
 
 ## Conseils généraux
 * [Conseils pré-rentrée MP2I (non exhaustifs)](https://discord.com/channels/1412854233660915784/1539349457416618116) **[D]**
 * [Conseils de majorant⋅e⋅s de MP2I 2026](https://discord.com/channels/1412854233660915784/1543564642847301642) **[D]**
 * [Anki - Système de flashcards](https://discord.com/channels/1412854233660915784/1543578246333997136) **[D]**
-  * [Flascards MP2I](https://discord.com/channels/1412854233660915784/1423394665247543377/1541122268342657054) (merci beaucoup A.D. !) **[D]**
+  * [Flashcards MP2I](https://discord.com/channels/1412854233660915784/1423394665247543377/1541122268342657054) (merci beaucoup A.D. !) **[D]**
 
 ## Concours
 * [Simulateur de bourse](https://www.lescrous.fr/nos-services/simulateur-de-bourse/)
