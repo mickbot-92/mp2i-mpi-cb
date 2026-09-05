@@ -11,13 +11,14 @@ Les liens en italique sont des pages natives du site.
 * [**Site officiel de la MP2I de CB**](https://mp2i-claude-bernard.fr/)
 * [**Site officiel du lycée**](https://pia.ac-paris.fr/serail/jcms/s1_660394/fr/classes-preparatoires-scientifiques)
 * [Association Prépas MP2I/MPI](https://prepas-mp2i.fr/) - [Discord](https://discord.prepas-mp2i.fr/)
-* Restaurants universitaires (RU)
+* [Restaurants universitaires (RU)](https://discord.com/channels/1412854233660915784/1545028765334241295) [D]
 * [Cahiers ✨ open-source ✨ de Colas Bardavid](https://colasbd.github.io/)
 
 ## Conseils généraux
 * [Conseils pré-rentrée MP2I (non exhaustifs)](https://discord.com/channels/1412854233660915784/1539349457416618116) **[D]**
 * [Conseils de majorant⋅e⋅s de MP2I 2026](https://discord.com/channels/1412854233660915784/1543564642847301642) **[D]**
 * [Anki - Système de flashcards](https://discord.com/channels/1412854233660915784/1543578246333997136) **[D]**
+  * [Flascards MP2I](https://discord.com/channels/1412854233660915784/1423394665247543377/1541122268342657054) (merci beaucoup A.D. !) **[D]**
 
 ## Concours
 * [Simulateur de bourse](https://www.lescrous.fr/nos-services/simulateur-de-bourse/)
@@ -56,11 +57,11 @@ Les liens en italique sont des pages natives du site.
 ## [*Bibliothèques*](bibliotheques)
 * [Affluences](https://affluences.com/fr/) - Horaires et affluences à jour des bibliothèques
 * [Numérique Premium (NP)](https://numeriquepremium.com/) - Livres numériques
+* [ScholarVox](https://univ.scholarvox.com/) - Livres numériques
 
 ## Cumulatif
 * [*Inscription cumulative*](inscription-cumulative)
 * [Boîte mail universitaire](https://discord.com/channels/1412854233660915784/1521640390657314857/1525439983522021517) **[D]**
-* ScholarVox - Livres numériques
 
 ### Focus Sorbonne Université
 * [Emplois du temps](https://planning.upmc.fr/jussieu/)
@@ -74,7 +75,7 @@ Les liens en italique sont des pages natives du site.
 * [Polycopié Maths LLG / H4](https://www.louislegrand.fr/wp-content/uploads/2022/01/EXOS-TERMINALE3-3-AVECDESSIN.pdf)
 * [Prologin](https://prologin.org/)
 * BIA - Brevet d'Initiation à l'Aéronautique
+* [Astro-Pi](https://astro-pi.org/) (Mission Zero très accessible)
+* [Cahier de Prépa downloader](https://github.com/pm-alexandre/cahier_de_prepa_downloader) - Télécharger tout Cahier de Prépa
 - [Le Jeu (The Game)](https://fr.wikipedia.org/wiki/Le_Jeu_(divertissement)) : vous avez perdu !
   - [Post Discord associé](https://discord.com/channels/1412854233660915784/1539348466910757004) **[D]**
-* [Cahier de Prépa downloader](https://github.com/pm-alexandre/cahier_de_prepa_downloader) - Télécharger tout Cahier de Prépa
-* [Astro-Pi](https://astro-pi.org/) (Mission Zero très accessible)
