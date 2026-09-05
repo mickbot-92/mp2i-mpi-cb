@@ -25,6 +25,7 @@ Les liens en italique sont des pages natives du site.
 * [Carte écoles post-MPI](https://mickbot-92.github.io/post-mpi/8/) (WIP)
 * [Aide IDF pour les frais de concours CPGE](https://www.iledefrance.fr/sites/default/files/2026-04/lycees-aide_cpge-2026-2027.pdf)
 * [Base d'épreuves orales scientifiques de concours aux grandes écoles](https://beos.prepas.org/)
+* [Concours écoles de commerce](https://discord.com/channels/1412854233660915784/1545701709333008394) (après une CPGE Scientifique) **[D]**
 
 ## Matières
 
