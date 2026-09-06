@@ -32,6 +32,9 @@ Les liens en italique sont des pages natives du site.
 
 ### Physique
 * [PhysikStore](https://phyzik.store/) - Simulations pédagogiques et animations interactives de physique-chimie
+- Rappels : cahiers d'entraînement de Colas Bardavid
+  - [CPGE MP2I](https://colasbd.github.io/cde/) (et 1re année plus généralement)
+  - [CPGE MPI/MPI*](https://colasbd.github.io/cde-2-mpi/) (et [pour les autres 2e années](https://colasbd.github.io/cde-2/))
 
 ### Informatique
 * [NonOS - L'environnement de concours](https://agreg-info.gitlab.io/docs/index.html)
