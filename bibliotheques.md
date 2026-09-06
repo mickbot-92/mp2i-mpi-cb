@@ -4,6 +4,12 @@
 - Certaines bibliothèques comme celles du campus Jussieu de Sorbonne ne vérifient pas les cartes d'étudiants, donc vous pouvez y entrer sans même être inscrits en cumulatif à Sorbonne (ou sans être inscrit en cumulatif du tout).
 - En revanche, selon l'université où vous êtes inscrit en cumulatif, vous pouvez aussi réserver des espaces de travail, seuls ou à plusieurs.
 
+## Légende
+⚠️ TODO: je n'ai pas encore mis toutes les légendes à toutes les bibliothèques
+* 🎫 : carte gratuite _facultative_ pour plus d'avantages (ressources en ligne, emprunt, réservation salles, etc., selon les bibliothèques bien entendu)
+* 📚 : Livres MP2I/MPI papier
+* 🖥 : Livres MP2I/MPI en ligne
+
 ## Accessibles sans conditions
 - 🎫📚🖥 [Bibliothèques de Sciences et Ingénierie](https://sciences.sorbonne-universite.fr/les-bibliotheques-de-sciences-et-ingenierie) (UPMC)
 - [Bibliothèque de l'Institut Henri Poincaré](https://www.ihp.fr/fr/bibliotheque/acces-services) (IHP)
@@ -31,12 +37,6 @@
 - 🖥 Sorbonne Université Lettres/Santé
 - [Panthéon Sorbonne](https://bibliotheques.pantheonsorbonne.fr/)
 - [Paris-Nanterre](https://bu.parisnanterre.fr/) (ou alors payer 17€)
-
-## Légende
-⚠️ TODO: je n'ai pas encore mis toutes les légendes à toutes les bibliothèques
-* 🎫 : carte gratuite _facultative_ pour plus d'avantages (ressources en ligne, emprunt, réservation salles, etc., selon les bibliothèques bien entendu)
-* 📚 : Livres MP2I/MPI papier
-* 🖥 : Livres MP2I/MPI en ligne
 
 TODO: tableau avec toutes les bibliothèques aux alentours avec leurs avantages/inconvénients.
 
