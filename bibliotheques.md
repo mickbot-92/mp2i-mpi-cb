@@ -26,6 +26,7 @@
 - 📚🖥 [Bibliothèque Sainte-Barbe](https://www.bsb.univ-paris3.fr/accueil-bsb) (BSB)
 - [Bibliothèque Sorbonne Nouvelle](https://www.dbu.univ-paris3.fr/accueil-dbu) (BSN) - Carte Lecteur
 - [Bibliothèque universitaire des langues et civilisations](https://bulac.fr/) (BULAC)
+  - Compatible avec la carte BnF
 
 ## Nécessitant une carte payante
 - [Bibliothèque nationale de France](https://www.bnf.fr/fr) (BnF) - Site François Mitterand
