@@ -1,7 +1,7 @@
 # Inscription cumulative
-Les élèves inscrits en CPGE ont obligation de s'incrire « à côté », en cumulatif, à une université. Cela permet de profiter des ressources de l'université, comme les bibliothèques universitaires (BU) rattachées à celle ci ou bien les ressources en ligne, ou encore de faciliter les réorientations en licence en fin de semestres.
+Les élèves inscrits en CPGE ont obligation de s'incrire « à côté », en cumulatif, à une université (loi du 22/07/2013). Cela permet de profiter des ressources de l'université, comme les bibliothèques universitaires (BU) rattachées à celle ci ou bien les ressources en ligne, ou encore de faciliter les réorientations en licence en fin de semestres.
 
-Néanmoins l'inscription vient avec un certain coût. Et en pratique, les réorientations en cours d'année sont réputées pour être peu acceptées (cela fonctionne un peu mieux en fin d'années), et des bibliothèques acceptent tout étudiant, y compris ceux non inscrits en cumulatif chez eux (voir [ma page](bibliotheques) à ce propos !). Vous pouvez ainsi très bien ne pas vous inscrire, personne ne vérifiera rien.
+Néanmoins l'inscription vient avec un certain coût. Et en pratique, les réorientations en cours d'année sont réputées pour être peu acceptées (cela fonctionne un peu mieux en fin d'années), et des bibliothèques acceptent tout étudiant, y compris ceux non inscrits en cumulatif chez eux ([voir ma page](bibliotheques) à ce propos !). Vous pouvez ainsi très bien ne pas vous inscrire, personne ne vérifiera rien (beaucoup ont suivi ce conseil btw).
 
 Le lycée est en convention avec ces universités :
 * [Université Paris Cité](https://u-paris.fr/inscription-cumulative-cpge/) (UPC) : Cumulatif CPGE Scientifique L1/L2 (sans plus d'infos)

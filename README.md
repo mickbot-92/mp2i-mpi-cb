@@ -79,6 +79,7 @@ Les liens en italique sont des pages natives du site.
 
 ## Divers
 * [Polycopié Maths LLG / H4](https://www.louislegrand.fr/wp-content/uploads/2022/01/EXOS-TERMINALE3-3-AVECDESSIN.pdf)
+* [Mathematic Park](https://www.ihp.fr/fr/mathematic-park)
 * [Prologin](https://prologin.org/)
 * BIA - Brevet d'Initiation à l'Aéronautique
 * [Astro-Pi](https://astro-pi.org/) (Mission Zero très accessible)
