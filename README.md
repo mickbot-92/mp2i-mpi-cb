@@ -30,6 +30,9 @@ Les liens en italique sont des pages natives du site.
 
 ## Matières
 
+### Physique
+* [PhysikStore](https://phyzik.store/) - Simulations pédagogiques et animations interactives de physique-chimie
+
 ### Informatique
 * [NonOS - L'environnement de concours](https://agreg-info.gitlab.io/docs/index.html)
 * [*Guide pour PC Unowhy Y13*](you-know-why)
