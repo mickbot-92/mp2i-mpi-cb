@@ -34,7 +34,7 @@
 
 ## Légende
 ⚠️ TODO: je n'ai pas encore mis toutes les légendes à toutes les bibliothèques
-* 🎫 : carte gratuite _facultative_ pour plus d'avantages (ressources en ligne, emprunt, réservation salles, etc.)
+* 🎫 : carte gratuite _facultative_ pour plus d'avantages (ressources en ligne, emprunt, réservation salles, etc., selon les bibliothèques bien entendu)
 * 📚 : Livres MP2I/MPI papier
 * 🖥 : Livres MP2I/MPI en ligne
 
