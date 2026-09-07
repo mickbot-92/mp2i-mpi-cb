@@ -14,12 +14,12 @@
 - 🎫📚🖥 [Bibliothèques de Sciences et Ingénierie](https://sciences.sorbonne-universite.fr/les-bibliotheques-de-sciences-et-ingenierie) (UPMC)
 - [Bibliothèque de l'Institut Henri Poincaré](https://www.ihp.fr/fr/bibliotheque/acces-services) (IHP)
 - 📚 [Bibliothèque publique d'information](https://www.bpi.fr/) (Bpi)
-- [La Salle Ovale](https://www.bnf.fr/fr/la-salle-ovale)
+- [Bibliothèque nationale de France](https://www.bnf.fr/fr/la-salle-ovale) - la Salle Ovale
 - 🎫 [Bibliothèques de Paris](https://bibliotheques.paris.fr/)
 - 🎫 [Bibliothèque de la Cité des sciences et de l'industrie](https://www.cite-sciences.fr/fr/au-programme/lieux-ressources/bibliotheque/)
 - [Quartier Jeunes](https://www.paris.fr/lieux/qj-quartier-jeunes-19858)
 - 🎫 [Bibliothèques Paris-Saclay](https://www.bibliotheques.universite-paris-saclay.fr/) : campus Orsay et Sceaux
-- [La « grande » BU de Paris-Nanterre](https://bu.parisnanterre.fr/)
+- 📚 [La « grande » BU de Paris-Nanterre](https://bu.parisnanterre.fr/)
 
 ## Nécessitant une carte gratuite
 - 📚🖥 [Bibliothèque Sainte-Geneviève](https://www.bsg.univ-paris3.fr/iguana/www.main.cls) (BSG)
@@ -29,7 +29,10 @@
   - Compatible avec la carte BnF
 
 ## Nécessitant une carte payante
-- [Bibliothèque nationale de France](https://www.bnf.fr/fr) (BnF) - Site François Mitterand
+- 📚 [Bibliothèque nationale de France](https://www.bnf.fr/fr) (BnF) - Site François Mitterand
+  - [Pass BnF gratuit pour les boursiers](https://www.bnf.fr/fr/gratuite-des-pass-bnf-pour-les-etudiants-boursiers-des-crous-de-paris-creteil-et-versailles)
+  - Ticket lecture 1 jour : 5€
+  - Ticket lecture 17h - 20h : gratuit
 - 🖥 [Bibliothèque Sorbonne Nouvelle](https://www.dbu.univ-paris3.fr/accueil-dbu) (BSN) - Carte Emprunteur
   - (gratuit pour les inscrit⋅e⋅s en cumulatif à UPC)
 
@@ -37,7 +40,7 @@
 - 📚🖥 [Université Paris Cité](https://u-paris.fr/bibliotheques/) (UPC)
 - 🖥 Sorbonne Université Lettres/Santé
 - [Panthéon Sorbonne](https://bibliotheques.pantheonsorbonne.fr/)
-- [Paris-Nanterre](https://bu.parisnanterre.fr/) (ou alors payer 17€)
+- 🖥 [Paris-Nanterre](https://bu.parisnanterre.fr/) (ou alors payer 17€)
 
 TODO: tableau avec toutes les bibliothèques aux alentours avec leurs avantages/inconvénients.
 
