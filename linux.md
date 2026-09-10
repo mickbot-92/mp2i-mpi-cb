@@ -3,7 +3,7 @@ TODO
 ## Intro
 Linux est un système d'exploitation incontournable lorsqu'on entre dans la filière MP2I/MPI. Il vous permettra de coder en C et en OCaml, les deux langages au programme d'Informatique. Vous avez pour cela plusieurs moyens d'en profiter sur votre PC. (Cela dit, si vous n'avez pas de PC, ce n'est pas grave, en TP d'Info vous pourrez vous servir des ordis fixes.)
 ## Installation en dual-boot
-Si vous avez un Windows, le principe est d'installer sur l'ordi même un Linux à côté. Au redémarrage, il suffira simplement de choisir si l'on veut démarrer sur Windows ou sur Linux. Se référer à la fin du [guide Unowhy](you-know-why) pour le moment.
+Si vous avez un Windows, le principe est d'installer sur l'ordi même un Linux à côté. Au redémarrage, il suffira simplement de choisir si l'on veut démarrer sur Windows ou sur Linux. Se référer à la fin du [guide Unowhy](you-know-why) pour le moment. **Attention**, il y a une procédure spécifique liée à BitLocker (utilitaire Windows qui chiffre votre disque), renseignez-vous bien dessus !
 ## Installation sur VM
 Sinon, vous pouvez installer VirtualBox afin de profiter de l'environnement de concours [NonOS](https://agreg-info.gitlab.io/docs/index.html). Les instructions sont indiquées sur le site en question.
 ## Installation avec WSL
