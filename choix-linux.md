@@ -6,6 +6,7 @@ Linux est un incontournable lorsque l'on est en MP2I/MPI. Néanmoins, [comme vou
 Pour faire simple, Linux est composé de deux choses :
 * une **distribution** : c'est en quelque sorte l'arrière-plan ;
 * un **environnement de bureau** (**DE**, pour _desktop environment_) : c'est l'interface que vous verrez.
+
 Comme vous le remarquerez en essayant Debian Gnome ou Fedora Workstation, vous ne verrez aucune différence visuellement : ils sont effectivement basés sur [le bureau Gnome](https://www.gnome.org/) qui est le même pour tous. L'avantage avec ce bureau est qu'il prend d'emblée en charge la gestuelle du trackpad. Enfin des extensions peuvent rendre l'expérience Gnome plus agréable.
 
 ## Liste de distributions
@@ -28,5 +29,5 @@ Sur [la page "live-boot" de Debian](https://www.debian.org/CD/live/index.fr.html
 ### ♥️ [Fedora](https://fedoraproject.org/)
 La particularité de ce Linux est qu'il utilise par défaut le système de fichier BTRFS, qui notamment compresse/décompresse les fichiers de manière instantanée et fluide, et a je crois de mises à jour plus tôt que Debian. [Plusieurs bureaux](https://fedoraproject.org/spins) sont aussi disponibles, ainsi que [des variantes selon le public](https://fedoraproject.org/labs/) comme pour Ubuntu ! (Perso je préfère rester sur Fedora Workstation, celui de base)
 
-#### ♥️ Arch Linux
+### ♥️ Arch Linux
 Arch Linux est un Linux « DIY », dans le sens où vous l'installez entièrement à la main en suivant [le guide officiel](https://wiki.archlinux.org/title/Installation_guide). C'est très formateur (vous comprendrez mieux l'envers du décor Linux), et peut permettre une meilleure optimisation de l'ordi. N'hésitez pas à me demander mon propre guide Arch Linux, créé en l'installant sur mon propre Unowhy Y13 😉
