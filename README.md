@@ -83,6 +83,7 @@ Les liens en italique sont des pages natives du site.
 * [Prologin](https://prologin.org/)
 * BIA - Brevet d'Initiation à l'Aéronautique
 * [Astro-Pi](https://astro-pi.org/) (Mission Zero très accessible)
+* Labaz - Plateforme de jeu concours de la région IDF
 * [Cahier de Prépa downloader](https://github.com/pm-alexandre/cahier_de_prepa_downloader) - Télécharger tout Cahier de Prépa
 - [Le Jeu (The Game)](https://fr.wikipedia.org/wiki/Le_Jeu_(divertissement)) : vous avez perdu !
   - [Post Discord associé](https://discord.com/channels/1412854233660915784/1539348466910757004) **[D]**
