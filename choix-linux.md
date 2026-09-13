@@ -1,5 +1,5 @@
 # Choix de Linux
-
+WIP
 ## Intro
 Linux est un incontournable lorsque l'on est en MP2I/MPI. Néanmoins, [comme vous pouvez le constater ici](https://en.wikipedia.org/wiki/List_of_Linux_distributions), on peut rapidement se perdre dans le choix d'un Linux à tester.
 
@@ -7,7 +7,10 @@ Pour faire simple, Linux est composé de deux choses :
 * une **distribution** : c'est en quelque sorte l'arrière-plan ;
 * un **environnement de bureau** (**DE**, pour _desktop environment_) : c'est l'interface que vous verrez.
 
-Comme vous le remarquerez en essayant Debian Gnome ou Fedora Workstation, vous ne verrez aucune différence visuellement : ils sont effectivement basés sur [le bureau Gnome](https://www.gnome.org/) qui est le même pour tous. L'avantage avec ce bureau est qu'il prend d'emblée en charge la gestuelle du trackpad. Enfin des extensions peuvent rendre l'expérience Gnome plus agréable.
+Points intéressants à savoir :
+* Une même distribution peut fournir initialement divers DE. Exemple avec [les Spins de la distribution Fedora](https://fedoraproject.org/spins), qui regroupent la plupart des DE connus. [Gnome](https://www.gnome.org/) et [Plasma](https://kde.org/plasma-desktop/) valent aussi le coup d'œil.
+* Sur une même distribution, vous pouvez installer plusieurs DE, et alterner entre eux à l'ouverture de votre session. Rien n'est figé à l'installation !
+* Réciproquement, une même DE peut se retrouver sur plusieurs distributions. Ainsi, si vous utilisez Fedora Workstation, vous pouvez basculer sur Debian sans changements visuels, car tous les deux utilisent [Gnome](https://www.gnome.org/) (que je recommande pour sa bonne prise en charge du touchpad).
 
 ## Liste de distributions
 
