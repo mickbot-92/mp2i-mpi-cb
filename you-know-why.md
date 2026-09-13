@@ -29,6 +29,12 @@ Remarque : n'hésitez pas à me repartager le dossier `C:\Sortie_Parc` !
 
 Si vous ne souhaitez/pouvez pas pour une raison quelconque suivre la méthode précédente, un autre moyen existe : il est possible de débloquer le BIOS [en suivant ce tuto](https://blog.sty1001.com/2024/07/29/unlock-le-bios-nimporte-quel-y13-gen-1-2023-et-avant-avec-la-methode-du-court-circuit/).
 
+Néanmoins, le guide exige un autre PC admin où faire les manipulations concernant la clé USB. Alternativement, voici ce que je vous propose pour tout faire sur votre Y13 (sans droits admin) :
+* Télécharger UTPE (le lien est dans son guide)
+* Connecter une clé USB (dont le contenu sera supprimé !)
+* Dans Explorateur de fichiers, faire un clic droit sur la clé, puis sélectionner Formater, en FAT32
+* Une fois UTPE téléchargé, copier-coller son contenu sur la clé USB
+
 Ce moyen contourne la nécessité d'obtenir les droits admin pour flasher un BIOS sans mot de passe. Ainsi vous êtes libres de réinstaller d'emblée l'ordi par exemple. En revanche, si vous voulez profiter des droits admin sur la configuration actuelle, il suffira de démarrer à nouveau sur UTPE et de conférer les droits admin à l'utilisateur `defaultuser0`, de l'activer et de reset son mot de passe (ainsi, depuis votre session, lorsque les identifiants d'un compte administrateur est demandé, entrez ceux de `.\defaultuser0`).
 
 
@@ -65,28 +71,37 @@ Si par hasard vous ne pouvez vous défaire de Windows et/ou que vous souhaitez a
 
 **Remarque 1** : Votre ordinateur a une clé Windows édition Pro de pré-intégrée, qui normalement s'activera après installation.
 
-* ♥️ [Windows 11 IoT Enterprise LTSC](https://www.microsoft.com/evalcenter/download-windows-11-iot-enterprise-ltsc-eval) : c'est un Windows officiel qui vient déjà activé pour 3 mois d'emblée (renouvelable), et qui n'a pas tant d'applis préinstallées que ça (seulement Microsoft Edge), ce qui le rend plus léger (et je peux au moins installer des applis open-source style Firefox, VLC, etc.). Par ailleurs, les mises à jour peuvent tenir longtemps. Sélectionnez l'éditioin *x64 / AMD64* pour télécharger l'ISO à mettre sur la clé Ventoy.
+* [Windows 11 IoT Enterprise LTSC](https://www.microsoft.com/evalcenter/download-windows-11-iot-enterprise-ltsc-eval) : c'est un Windows officiel qui vient déjà activé pour 3 mois d'emblée (renouvelable), et qui n'a pas tant d'applis préinstallées que ça (seulement Microsoft Edge), ce qui le rend plus léger (et je peux au moins installer des applis open-source style Firefox, VLC, etc.). Par ailleurs, les mises à jour peuvent tenir longtemps. Sélectionnez l'édition *x64 / AMD64* pour télécharger l'ISO à mettre sur la clé Ventoy.
 
 **Remarque 2** : Il reste possible de coder en C sur Windows nativement et/ou d'installer Linux directement dans Windows, mais ce n'est pas recommandé !
 
+**_Attention_** : BitLocker risque de compromettre une bonne expérience de dual-boot, il est vivement recommandé de le désactiver !
 
-### [Linux Mint](https://www.linuxmint.com/)
+### Linux
+
+Linux est un incontournable lorsque l'on est en MP2I/MPI. Néanmoins, [comme vous pouvez le constater ici](https://en.wikipedia.org/wiki/List_of_Linux_distributions), on peut rapidement se perdre dans le choix d'un Linux à tester. Voilà mes recommandations :
+
+#### [Linux Mint](https://www.linuxmint.com/)
 
 C'est l'OS recommandé pour les gens qui débutent dans Linux. Ça a en effet une interface similaire à celle de Windows 10 (n'hésitez pas à regarder les captures d'écran ou à le tester). Voilà le lien vers la page du projet : https://www.linuxmint.com/
 
 **Astuce** : Activer les Gestes afin de mieux prendre en main l'OS avec le trackpad.
 
-### Ubuntu/Debian/Fedora
+#### [Ubuntu](https://ubuntu.com/)
+La distribution la plus répandue dans le monde de Linux. Il est dérivé de Debian. Mise à part l'origina, [différentes variantes existent](https://ubuntu.com/desktop/flavors) avec des bureaux et et visées différentes ; n'hésitez pas à en télécharger plusieurs pour les tester !
 
-D'autres Linux réuptés peuvent être testés : j'en ai sélectionné 3 gros.
-* [Ubuntu](https://ubuntu.com/) : le Linux le plus répandu dans le monde de Linux. Il est dérivé de Debian. Mise à part l'origina, [différentes variantes existent](https://ubuntu.com/desktop/flavors) avec des bureaux et et visées différentes ; n'hésitez pas à en télécharger plusieurs pour les tester !
-* [Debian](https://www.debian.org/) : Sur [la page "live-boot" de Debian](https://www.debian.org/CD/live/index.fr.html), vous avez plusieurs variantes de bureau que vous pouvez tester (KDE, Gnome, Cinnamon, XFCE, etc.), donc n'hésitez pas non plus à tous les télécharger [sur cette page](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/) et les tester !
-* ♥️ [Fedora](https://fedoraproject.org/) : La particularité de ce Linux est qu'il utilise par défaut le système de fichier BTRFS, qui notamment compresse/décompresse les fichiers de manière instantanée et fluide, et a je crois de mises à jour plus tôt que Debian. [Plusieurs bureaux](https://fedoraproject.org/spins) sont aussi disponibles, ainsi que [des variantes selon le public](https://fedoraproject.org/labs/) comme pour Ubuntu ! (Perso je préfère rester sur Fedora Workstation, celui de base)
+#### [Ubuntu MATE](https://ubuntu-mate.org/)
+Variante de Ubuntu où vous pouvez d'un clic changer entre différents types d'interface (classique, macOS, Windows, etc.)
+
+#### [Debian](https://www.debian.org/)
+Sur [la page "live-boot" de Debian](https://www.debian.org/CD/live/index.fr.html), vous avez plusieurs variantes de bureau que vous pouvez tester (KDE, Gnome, Cinnamon, XFCE, etc.), donc n'hésitez pas non plus à tous les télécharger [sur cette page](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/) et les tester !
+
+#### ♥️ [Fedora](https://fedoraproject.org/)
+La particularité de ce Linux est qu'il utilise par défaut le système de fichier BTRFS, qui notamment compresse/décompresse les fichiers de manière instantanée et fluide, et a je crois de mises à jour plus tôt que Debian. [Plusieurs bureaux](https://fedoraproject.org/spins) sont aussi disponibles, ainsi que [des variantes selon le public](https://fedoraproject.org/labs/) comme pour Ubuntu ! (Perso je préfère rester sur Fedora Workstation, celui de base)
 
 **Remarque** : Comme vous le remarquerez en essayant Debian Gnome ou Fedora Workstation, vous ne verrez aucune différence visuellement : ils sont effectivement basés sur [le bureau Gnome](https://www.gnome.org/) qui est le même pour tous. L'avantage avec ce bureau est qu'il prend d'emblée en charge la gestuelle du trackpad. Enfin des extensions peuvent rendre l'expérience Gnome plus agréable.
 
-
-### Arch Linux
+#### ♥️ Arch Linux
 Arch Linux est un Linux « DIY », dans le sens où vous l'installez entièrement à la main en suivant [le guide officiel](https://wiki.archlinux.org/title/Installation_guide). C'est très formateur (vous comprendrez mieux l'envers du décor Linux), et peut permettre une meilleure optimisation de l'ordi. N'hésitez pas à me demander mon propre guide Arch Linux, créé en l'installant sur mon propre Unowhy Y13 😉
 
 ## Installer un OS
