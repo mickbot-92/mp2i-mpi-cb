@@ -92,8 +92,9 @@ Cliquez sur le titre pour avoir ma liste !
 
 ## Post-installation
 Dans un premier temps :
-* Installer VSCodium pour les TP d'info : https://vscodium.com
-* (Si vous utilisez Gnome) Si cliquer sur la touche Super ou glisser les trois doigts vers le haut vous embêtent, vous pouvez installer cette extension : https://extensions.gnome.org/extension/307/dash-to-dock/ ; c'est une des extensions les plus connues pour réactiver le dock pour avoir les raccourcis en bas de l'écran (style macOS)
+* Installer [VSCodium](https://vscodium.com) pour les TP d'info.
+* (Si vous utilisez Gnome) Si cliquer sur la touche Super ou glisser les trois doigts vers le haut vous embêtent, vous pouvez installer [l'extension Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) ; c'est une des extensions les plus connues, pour réactiver le dock pour avoir les raccourcis en bas de l'écran (style macOS)
+
 Dans un second temps, pour avoir Windows en même temps :
 * Si on n'a pas choisi le chiffrement de disque lors de l'installation, il est plus facilement redimensionnable : vous pouvez réduire la taille de moitié par exemple,
 * puis lancer une installation Windows sur la place libre alors créée.
