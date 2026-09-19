@@ -13,6 +13,10 @@ Le lycée est en convention avec ces universités :
 ## Astuce boursiers
 Si vous êtes boursiers, vous n'avez rien à perdre, l'inscription devenant gratuite. Je vous recommande de privilégier UPC et/ou Sorbonne Jussieu. Vous avez aussi la possibilité de vous inscrire à plusieurs universités en même temps : celles-ci proposent chacune des mentions différentes pour les CPGE, vous n'entrerez donc pas en contradiction avec l'article D612-7 Code éducation (je suis moi-même inscrit à Sorbonne Jussieu et UPC, cette dernière m'ayant explicitement confirmé que l'inscription à Jussieu ne leur dérangeait pas).
 
+Pour les non bourisers, [voir sur Discord](https://discord.com/channels/1412854233660915784/1543248103132500119/1549071879426281534) **[D]**.
+
+## Le mot de la fin
+
 Tout vous sera indiqué par le CPE en temps et en heure concernant les procédures d'inscription.
 
 (L'inscription cumulative permet en outre de profiter des avantages des étudiants de l'université même, comme le vote de représentants, la participation aux tirages au sort organisés par mail et autres événements jeux de société / atelier crochet, la chasse aux œufs dans les BU, une facilité pour manger dans les restaurants universités (RU) avec la carte d'étudiant, ou encore vous incruster dans des cours de licence durant les vacances, de SVCST ou de MPM/PeiP par exemple, etc.)

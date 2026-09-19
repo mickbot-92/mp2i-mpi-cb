@@ -89,3 +89,12 @@ Cliquez sur le titre pour avoir ma liste !
 * Après démarrage de Ventoy, sélectionner l'ISO voulu.
 * (Leur lancement prend un peu de temps.)
 * Tester l'OS, puis s'il convient, l'installer en suivant les instructions. Enjoy !
+
+## Post-installation
+Dans un premier temps :
+* Installer VSCodium pour les TP d'info : https://vscodium.com
+* (Si vous utilisez Gnome) Si cliquer sur la touche Super ou glisser les trois doigts vers le haut vous embêtent, vous pouvez installer cette extension : https://extensions.gnome.org/extension/307/dash-to-dock/ ; c'est une des extensions les plus connues pour réactiver le dock pour avoir les raccourcis en bas de l'écran (style macOS)
+Dans un second temps, pour avoir Windows en même temps :
+* Si on n'a pas choisi le chiffrement de disque lors de l'installation, il est plus facilement redimensionnable : vous pouvez réduire la taille de moitié par exemple,
+* puis lancer une installation Windows sur la place libre alors créée.
+* Enfin, il y aura un problème de drivers, [Unowhy Tools](https://github.com/STY1001/Unowhy-Tools) permettra de les réinstaller, et/ou en restaurant la sauvegarde établie avant si vous vous y êtes pris.

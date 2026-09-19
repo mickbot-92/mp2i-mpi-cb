@@ -1,5 +1,8 @@
 # Bons plans et astuces
 
+## Disclaimer
+Ce site n'est absolument pas géré ou supporté officiellement par le lycée, c'est juste moi, un étudiant en MP2I/MPI, qui regroupe tout ce que j'ai pu relever durant mes années de lycée, donc ne blâmez pas le lycée pour le contenu de ce site.
+
 ## Discord
 Me contacter à stole-gusto-dress[at]duck[dot]com
 
@@ -40,6 +43,7 @@ Les liens en italique sont des pages natives du site.
 * [NonOS - L'environnement de concours](https://agreg-info.gitlab.io/docs/index.html)
 * [*Guide pour PC Unowhy Y13*](you-know-why)
 * [*Linux, l'incontournable de la MP2I/MPI*](linux)
+* [*Choix du Linux*](choix-linux)
 * Utiliser [VSCodium](https://vscodium.com/) et non pas VS Code !
 - OCaml - [Site officiel](https://ocaml.org/)
   - [Playground - Interpréteur en ligne](https://ocaml.org/play)
@@ -57,7 +61,7 @@ Les liens en italique sont des pages natives du site.
   - [Flashcards Anki](https://ankiweb.net/shared/info/561856454) (Legacy)
   - [Flashcards Anki](https://ankiweb.net/shared/info/1084173649) (Merci C.P. !)
 * [Mémo Anglais B2-C1](https://www.generation5.fr/379--memo-anglais-b2-c1-edition-2020.php) / [Application compagnon](https://www.g5-apps.fr/Mmo-anglais-B2-C1--125--10410.php)
-* [Méthodologie khôlle anglais](https://discord.com/channels/1412854233660915784/1521640390657314857/1536269507201605663) **[D]**
+* [Méthodologie khôlle anglais](https://discord.com/channels/1412854233660915784/1539347611662680156) **[D]**
 * [Conseils pour l'anglais](https://discord.com/channels/1412854233660915784/1540072751304417421/1540072751304417421) **[D]**
 
 ## [*Bibliothèques*](bibliotheques)
@@ -65,7 +69,7 @@ Les liens en italique sont des pages natives du site.
 * [Numérique Premium (NP)](https://numeriquepremium.com/) - Livres numériques
 * [ScholarVox](https://univ.scholarvox.com/) - Livres numériques
 
-## Cumulatif
+## [*Cumulatif*](inscription-cumulative)
 * [*Inscription cumulative*](inscription-cumulative)
 * [Boîte mail universitaire](https://discord.com/channels/1412854233660915784/1521640390657314857/1525439983522021517) **[D]**
 
@@ -83,7 +87,7 @@ Les liens en italique sont des pages natives du site.
 * [Prologin](https://prologin.org/)
 * BIA - Brevet d'Initiation à l'Aéronautique
 * [Astro-Pi](https://astro-pi.org/) (Mission Zero très accessible)
-* Labaz - Plateforme de jeu concours de la région IDF
+* [Labaz](https://www.iledefrance.fr/tous-les-services/labaz-lappli-pour-les-15-25-ans) - Application mobile de la Région Île-de-France destinée aux Franciliens de 15 à 25 ans. Entièrement gratuite, elle propose des aides, des bons plans, des jeux-concours…
 * [Cahier de Prépa downloader](https://github.com/pm-alexandre/cahier_de_prepa_downloader) - Télécharger tout Cahier de Prépa
 - [Le Jeu (The Game)](https://fr.wikipedia.org/wiki/Le_Jeu_(divertissement)) : vous avez perdu !
   - [Post Discord associé](https://discord.com/channels/1412854233660915784/1539348466910757004) **[D]**
